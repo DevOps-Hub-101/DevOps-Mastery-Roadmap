@@ -97,6 +97,25 @@ The roadmap consists of four stages for DevOps, along with specific sections for
 2. **Advanced Monitoring and Analytics for SRE**
     - Guide: [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
     - Guide: [Grafana Documentation](https://grafana.com/docs/)
+  
+### Chaos Engineering
+
+#### Introduction to Chaos Engineering
+
+1. **Understanding Chaos Engineering Principles**
+   - Read: [Principles of Chaos Engineering](https://principlesofchaos.org/)
+
+#### Principles and Practices
+
+2. **Chaos Engineering Principles and Practices**
+   - Read: [Chaos Engineering: System Resiliency in Practice](https://www.oreilly.com/library/view/chaos-engineering/9781491988463/)
+
+#### Tools and Simulations
+
+3. **Chaos Engineering Tools and Simulations**
+   - Guide: [Chaos Toolkit Documentation](https://chaostoolkit.org/docs/)
+   - Guide: [Gremlin Documentation](https://www.gremlin.com/docs/)
+
 
 ## Contributing
 
