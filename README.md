@@ -32,7 +32,7 @@ The roadmap consists of four stages for DevOps, along with specific sections for
 #### Getting Started (DevOps)
 
 1. **Understanding DevOps Principles**
-    - Read: [The DevOps Handbook](https://www.devopshandbook.com/)
+    - Read: [The DevOps Handbook](https://books.google.co.ug/books/about/The_DevOps_Handbook.html?id=ui8hDgAAQBAJ&redir_esc=y)
     - Online Course: [Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
 
 2. **Version Control Systems (VCS)**
