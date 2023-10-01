@@ -33,7 +33,7 @@ The roadmap consists of four stages for DevOps, along with specific sections for
 
 1. **Understanding DevOps Principles**
     - Read: [The DevOps Handbook](https://www.devopshandbook.com/)
-    - Online Course: [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
+    - Online Course: [Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
 
 2. **Version Control Systems (VCS)**
     - Guide: [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
